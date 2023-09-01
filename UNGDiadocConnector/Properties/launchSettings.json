@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "UNGDiadocConnector": {
-      "commandName": "Project",
-      "commandLineArgs": "\"8d96ce00-9d13-4176-8b1c-7b825ebb0232\" \"C:\\svkirtyanov\\UNGDiadocConnector\\TestDoc\\SignFromESD.sig\""
-    }
-  }
-}
